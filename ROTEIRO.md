@@ -12,22 +12,22 @@ ENVIO: A forma de envio é a mesma das listas, ou seja, upload do arquivo da pro
 
 ### Atividades:
 
-- [ ] 1 - Estatísticas Descritivas das Variáveis
-- [ ] 2 - Equação estimada e hipóteses para usar o estimador escolhido
-- [ ] 3 - Coeficientes, Desvio-padrão, $R^2$
-    - [ ] 3.1 - Coeficientes
-    - [ ] 3.2 - Desvio-padrão
-    - [ ] 3.3 - $R^2$
-- [ ] 4 - Teste de hipótese dos coeficientes:
-    - [ ] 4.1 - Teste t
-    - [ ] 4.2 - Teste F
-    - [ ] 4.3 - Teste LM
-- [ ] 5 - Discussão dos resultados encontrados
-- [ ] 6 - Montar slides
+- [X] 1 - Estatísticas Descritivas das Variáveis
+- [x] 2 - Equação estimada e hipóteses para usar o estimador escolhido
+- [x] 3 - Coeficientes, Desvio-padrão, $R^2$
+    - [x] 3.1 - Coeficientes
+    - [x] 3.2 - Desvio-padrão
+    - [x] 3.3 - $R^2$
+- [x] 4 - Teste de hipótese dos coeficientes:
+    - [X] 4.1 - Teste t
+    - [X] 4.2 - Teste F
+    - [X] 4.3 - Teste LM
+- [X] 5 - Discussão dos resultados encontrados
+- [X] 6 - Montar slides
     - [x] 6.1 - Adicionar um título ao trabalho
     - [x] 6.2 - Adicionar nomes e RAs
 - [ ] 7 - Gravar vídeo da apresentação do trabalho (10 à 15 min)
-- [ ] 8 - Subir arquivo da apresentação e vídeo no Tidia
+- [ ] 8 - Subir arquivo da apresentação e vídeo no Tidia, Sigaa
 
 
 - ### Links:

@@ -1,0 +1,41 @@
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}    &     lhrsemp      & \textbf{  R-squared:         } &     0.415   \\
+\textbf{Model:}            &       OLS        & \textbf{  Adj. R-squared:    } &     0.316   \\
+\textbf{Method:}           &  Least Squares   & \textbf{  F-statistic:       } &     4.185   \\
+\textbf{Date:}             & Fri, 30 Apr 2021 & \textbf{  Prob (F-statistic):} &  0.000212   \\
+\textbf{Time:}             &     03:00:25     & \textbf{  Log-Likelihood:    } &   -105.53   \\
+\textbf{No. Observations:} &          70      & \textbf{  AIC:               } &     233.1   \\
+\textbf{Df Residuals:}     &          59      & \textbf{  BIC:               } &     257.8   \\
+\textbf{Df Model:}         &          10      & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                   & \textbf{coef} & \textbf{std err} & \textbf{t} & \textbf{P$> |$t$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{Intercept} &     -14.5198  &        6.845     &    -2.121  &         0.038        &      -28.216    &       -0.823     \\
+\textbf{grant}     &       1.5870  &        0.426     &     3.723  &         0.000        &        0.734    &        2.440     \\
+\textbf{d88}       &       0.1767  &        0.395     &     0.447  &         0.656        &       -0.613    &        0.967     \\
+\textbf{d89}       &       0.6942  &        0.494     &     1.406  &         0.165        &       -0.294    &        1.683     \\
+\textbf{grant\_1}  &      -0.2484  &        0.565     &    -0.440  &         0.662        &       -1.379    &        0.882     \\
+\textbf{lemploy}   &      -0.6272  &        0.429     &    -1.461  &         0.149        &       -1.486    &        0.232     \\
+\textbf{lscrap}    &       0.1092  &        0.144     &     0.756  &         0.453        &       -0.180    &        0.398     \\
+\textbf{lavgsal}   &       0.5376  &        0.456     &     1.179  &         0.243        &       -0.375    &        1.450     \\
+\textbf{lsales}    &       0.8527  &        0.457     &     1.865  &         0.067        &       -0.062    &        1.768     \\
+\textbf{union}     &      -0.7518  &        0.422     &    -1.783  &         0.080        &       -1.595    &        0.092     \\
+\textbf{lrework}   &      -0.0689  &        0.152     &    -0.452  &         0.653        &       -0.374    &        0.236     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Omnibus:}       &  2.989 & \textbf{  Durbin-Watson:     } &    1.316  \\
+\textbf{Prob(Omnibus):} &  0.224 & \textbf{  Jarque-Bera (JB):  } &    2.922  \\
+\textbf{Skew:}          &  0.479 & \textbf{  Prob(JB):          } &    0.232  \\
+\textbf{Kurtosis:}      &  2.712 & \textbf{  Cond. No.          } &     908.  \\
+\bottomrule
+\end{tabular}
+%\caption{OLS Regression Results}
+\end{center}
+
+Notes: \newline
+ [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
