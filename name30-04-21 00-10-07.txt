@@ -1,0 +1,35 @@
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}    &     lhrsemp      & \textbf{  R-squared:         } &     0.254   \\
+\textbf{Model:}            &       OLS        & \textbf{  Adj. R-squared:    } &     0.247   \\
+\textbf{Method:}           &  Least Squares   & \textbf{  F-statistic:       } &     32.85   \\
+\textbf{Date:}             & Fri, 30 Apr 2021 & \textbf{  Prob (F-statistic):} &  1.42e-23   \\
+\textbf{Time:}             &     00:10:07     & \textbf{  Log-Likelihood:    } &   -664.06   \\
+\textbf{No. Observations:} &         390      & \textbf{  AIC:               } &     1338.   \\
+\textbf{Df Residuals:}     &         385      & \textbf{  BIC:               } &     1358.   \\
+\textbf{Df Model:}         &           4      & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                   & \textbf{coef} & \textbf{std err} & \textbf{t} & \textbf{P$> |$t$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{Intercept} &       1.1287  &        0.118     &     9.590  &         0.000        &        0.897    &        1.360     \\
+\textbf{grant}     &       1.9457  &        0.203     &     9.602  &         0.000        &        1.547    &        2.344     \\
+\textbf{grant\_1}  &      -0.1110  &        0.269     &    -0.413  &         0.680        &       -0.640    &        0.418     \\
+\textbf{d88}       &       0.1436  &        0.174     &     0.824  &         0.410        &       -0.199    &        0.486     \\
+\textbf{d89}       &       0.5532  &        0.188     &     2.949  &         0.003        &        0.184    &        0.922     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Omnibus:}       & 35.915 & \textbf{  Durbin-Watson:     } &    1.142  \\
+\textbf{Prob(Omnibus):} &  0.000 & \textbf{  Jarque-Bera (JB):  } &   32.753  \\
+\textbf{Skew:}          &  0.639 & \textbf{  Prob(JB):          } & 7.72e-08  \\
+\textbf{Kurtosis:}      &  2.380 & \textbf{  Cond. No.          } &     5.06  \\
+\bottomrule
+\end{tabular}
+%\caption{OLS Regression Results}
+\end{center}
+
+Notes: \newline
+ [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

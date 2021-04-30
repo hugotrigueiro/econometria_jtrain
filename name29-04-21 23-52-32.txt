@@ -1,0 +1,33 @@
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}    &     lhrsemp      & \textbf{  R-squared:         } &     0.244   \\
+\textbf{Model:}            &       OLS        & \textbf{  Adj. R-squared:    } &     0.240   \\
+\textbf{Method:}           &  Least Squares   & \textbf{  F-statistic:       } &     62.40   \\
+\textbf{Date:}             & Thu, 29 Apr 2021 & \textbf{  Prob (F-statistic):} &  3.23e-24   \\
+\textbf{Time:}             &     23:52:32     & \textbf{  Log-Likelihood:    } &   -666.81   \\
+\textbf{No. Observations:} &         390      & \textbf{  AIC:               } &     1340.   \\
+\textbf{Df Residuals:}     &         387      & \textbf{  BIC:               } &     1352.   \\
+\textbf{Df Model:}         &           2      & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                       & \textbf{coef} & \textbf{std err} & \textbf{t} & \textbf{P$> |$t$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{Intercept}     &       1.1287  &        0.118     &     9.548  &         0.000        &        0.896    &        1.361     \\
+\textbf{grant}         &       1.9444  &        0.199     &     9.786  &         0.000        &        1.554    &        2.335     \\
+\textbf{time\_dummies} &       0.3393  &        0.151     &     2.242  &         0.026        &        0.042    &        0.637     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Omnibus:}       & 38.814 & \textbf{  Durbin-Watson:     } &    1.171  \\
+\textbf{Prob(Omnibus):} &  0.000 & \textbf{  Jarque-Bera (JB):  } &   31.453  \\
+\textbf{Skew:}          &  0.604 & \textbf{  Prob(JB):          } & 1.48e-07  \\
+\textbf{Kurtosis:}      &  2.311 & \textbf{  Cond. No.          } &     3.88  \\
+\bottomrule
+\end{tabular}
+%\caption{OLS Regression Results}
+\end{center}
+
+Notes: \newline
+ [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

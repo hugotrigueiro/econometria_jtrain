@@ -1,0 +1,10 @@
+descricao,year,count,mean,std
+Firmas que receberam subsídio em 1988,1987,36,7.67,19.57
+Firmas que receberam subsídio em 1988,1988,36,35.98,36.96
+Firmas que receberam subsídio em 1988,1989,36,10.06,19.47
+Firmas que receberam subsídio em 1989,1987,30,6.12,11.31
+Firmas que receberam subsídio em 1989,1988,30,9.32,17.36
+Firmas que receberam subsídio em 1989,1989,30,50.65,36.22
+Firmas que não receberam subsídio,1987,91,10.7,18.31
+Firmas que não receberam subsídio,1988,91,9.82,18.63
+Firmas que não receberam subsídio,1989,91,12.35,23.78

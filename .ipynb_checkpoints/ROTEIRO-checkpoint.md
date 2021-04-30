@@ -24,8 +24,8 @@ ENVIO: A forma de envio é a mesma das listas, ou seja, upload do arquivo da pro
     - [ ] 4.3 - Teste LM
 - [ ] 5 - Discussão dos resultados encontrados
 - [ ] 6 - Montar slides
-    - [ ] 6.1 - Adicionar um título ao trabalho
-    - [ ] 6.2 - Adicionar nomes e RAs
+    - [x] 6.1 - Adicionar um título ao trabalho
+    - [x] 6.2 - Adicionar nomes e RAs
 - [ ] 7 - Gravar vídeo da apresentação do trabalho (10 à 15 min)
 - [ ] 8 - Subir arquivo da apresentação e vídeo no Tidia
 

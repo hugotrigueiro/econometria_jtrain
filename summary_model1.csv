@@ -1,0 +1,22 @@
+,0
+0,                      OLS Regression Results                     
+1,"Dep. Variable:   ,lhrsemp         ,  R-squared:         ,   0.244"
+2,"Model:           ,OLS             ,  Adj. R-squared:    ,   0.240"
+3,"Method:          ,Least Squares   ,  F-statistic:       ,   62.40"
+4,"Date:            ,Thu, 29 Apr 2021,  Prob (F-statistic):,3.23e-24"
+5,"Time:            ,23:39:26        ,  Log-Likelihood:    , -666.81"
+6,"No. Observations:,   390          ,  AIC:               ,   1340."
+7,"Df Residuals:    ,   387          ,  BIC:               ,   1352."
+8,"Df Model:        ,     2          ,                     ,        "
+9,"Covariance Type: ,nonrobust       ,                     ,        "
+10,"            ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] "
+11,"Intercept   ,    1.1287,    0.118,    9.548, 0.000,    0.896,    1.361"
+12,"grant       ,    1.9444,    0.199,    9.786, 0.000,    1.554,    2.335"
+13,"time_dummies,    0.3393,    0.151,    2.242, 0.026,    0.042,    0.637"
+14,"Omnibus:      ,38.814,  Durbin-Watson:     ,   1.171"
+15,"Prob(Omnibus):, 0.000,  Jarque-Bera (JB):  ,  31.453"
+16,"Skew:         , 0.604,  Prob(JB):          ,1.48e-07"
+17,"Kurtosis:     , 2.311,  Cond. No.          ,    3.88"
+18,
+19,Notes:
+20,[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

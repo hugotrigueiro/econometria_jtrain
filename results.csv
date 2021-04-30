@@ -1,0 +1,33 @@
+0
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  LWAGE   R-squared:                       0.233
+Model:                            OLS   Adj. R-squared:                  0.226
+Method:                 Least Squares   F-statistic:                     32.25
+Date:                Thu, 29 Apr 2021   Prob (F-statistic):           2.08e-44
+Time:                        19:17:28   Log-Likelihood:                -353.60
+No. Observations:                 857   AIC:                             725.2
+Df Residuals:                     848   BIC:                             768.0
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          5.1282      0.169     30.286      0.000       4.796       5.461
+AGE            0.0159      0.004      3.717      0.000       0.007       0.024
+EDUC           0.0494      0.006      7.919      0.000       0.037       0.062
+MEDUC          0.0134      0.005      2.732      0.006       0.004       0.023
+SIBS          -0.0078      0.006     -1.329      0.184      -0.019       0.004
+TENURE         0.0107      0.003      4.096      0.000       0.006       0.016
+URBAN          0.1696      0.028      5.971      0.000       0.114       0.225
+SOUTH         -0.1016      0.027     -3.728      0.000      -0.155      -0.048
+MARRIED        0.2068      0.041      5.053      0.000       0.126       0.287
+==============================================================================
+Omnibus:                       35.881   Durbin-Watson:                   1.816
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               76.257
+Skew:                          -0.238   Prob(JB):                     2.76e-17
+Kurtosis:                       4.382   Cond. No.                         516.
+==============================================================================
+""
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
